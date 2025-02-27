@@ -1,382 +1,385 @@
 {
   "summary": {
     "main_attractions": [
-      "비겔란 조각 공원",
-      "뭉크 미술관",
-      "노벨 평화 센터",
-      "아케르스후스 요새",
-      "오슬로 시청",
-      "프람 박물관"
+      "쇤브룬궁",
+      "호프부르크 왕궁",
+      "슈테판 대성당",
+      "빈 자연사 박물관",
+      "알베르티나",
+      "프라터"
     ],
-    "route_overview": "오슬로 시내 중심부를 시작으로 비겔란 공원, 박물관 섬 등을 방문하는 일정입니다. 대중교통을 이용하여 효율적인 이동이 가능하도록 계획되었습니다."
+    "route_overview": "빈의 주요 관광 명소를 중심으로 효율적인 동선을 구성하여 7일 동안 빈의 역사, 문화, 자연을 만끽할 수 있도록 계획되었습니다. 왕궁, 성당, 박물관, 공원 등 다양한 테마를 포함하고 있으며, 맛집 탐방도 곁들여 풍성한 경험을 제공합니다."
   },
   "daily_schedule": [
     {
       "day": 1,
-      "date": "2025-03-27",
+      "date": "2025-03-13",
       "activities": [
         {
           "type": "hotel",
           "time": "15:00",
-          "place": "톤 호텔 오페라",
+          "place": "부티크 호텔 스타트할레",
           "duration": "30",
-          "notes": "호텔 체크인 및 짐 정리",
+          "notes": "체크인 후 짐 정리 및 휴식",
           "location": {
             "type": "hotel",
-            "lat": 59.90948330000001,
-            "lng": 10.7532056
+            "lat": 48.19921710000001,
+            "lng": 16.333811
+          }
+        },
+        {
+          "type": "restaurant",
+          "time": "18:00",
+          "place": "7Stern Bräu",
+          "duration": "90",
+          "notes": "저녁 식사 (오스트리아 전통 음식 맛보기)",
+          "location": {
+            "type": "restaurant",
+            "lat": 48.202198,
+            "lng": 16.353508
+          }
+        }
+      ],
+      "total_distance": 1.5
+    },
+    {
+      "day": 2,
+      "date": "2025-03-14",
+      "activities": [
+        {
+          "type": "attraction",
+          "time": "10:00",
+          "place": "쇤브룬궁",
+          "duration": "120",
+          "notes": "합스부르크 왕가의 여름 궁전 방문",
+          "location": {
+            "type": "attraction",
+            "lat": 48.1858124,
+            "lng": 16.3127641
+          }
+        },
+        {
+          "type": "restaurant",
+          "time": "12:30",
+          "place": "Gasthaus Kopp",
+          "duration": "90",
+          "notes": "쇤브룬궁 근처 점심 식사",
+          "location": {
+            "type": "restaurant",
+            "lat": 48.23781,
+            "lng": 16.3871546
+          }
+        },
+        {
+          "type": "attraction",
+          "time": "14:30",
+          "place": "Schönbrunn Zoo",
+          "duration": "60",
+          "notes": "세계에서 가장 오래된 동물원 방문",
+          "location": {
+            "type": "attraction",
+            "lat": 48.18208629999999,
+            "lng": 16.3027845
           }
         },
         {
           "type": "attraction",
           "time": "16:00",
-          "place": "뭉크 미술관",
-          "duration": "120",
-          "notes": "뭉크의 대표작 '절규' 감상"
-        },
-        {
-          "type": "restaurant",
-          "time": "18:30",
-          "place": "Hanami",
-          "duration": "90",
-          "notes": "저녁 식사 (일식 레스토랑)",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.9082981,
-            "lng": 10.7211237
-          }
-        }
-      ],
-      "total_distance": 1
-    },
-    {
-      "day": 2,
-      "date": "2025-03-28",
-      "activities": [
-        {
-          "type": "attraction",
-          "time": "10:00",
-          "place": "노벨 평화 센터",
-          "duration": "120",
-          "notes": "노벨 평화상 수상자 및 평화 운동 전시 관람",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.91163349999999,
-            "lng": 10.7304833
-          }
-        },
-        {
-          "type": "restaurant",
-          "time": "12:30",
-          "place": "노벨 평화 센터",
-          "duration": "90",
-          "notes": "점심 식사 (노벨 평화 센터 내 레스토랑)",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.91163349999999,
-            "lng": 10.7304833
-          }
-        },
-        {
-          "type": "attraction",
-          "time": "14:30",
-          "place": "아케르스후스 요새",
-          "duration": "120",
-          "notes": "오슬로 피오르드 전망 및 요새 역사 탐방"
-        },
-        {
-          "type": "attraction",
-          "time": "16:30",
-          "place": "오슬로 시청",
+          "place": "Kronprinzessin-Stefanie-Warte",
           "duration": "60",
-          "notes": "노르웨이 건축 양식 감상 및 내부 관람"
-        },
-        {
-          "type": "restaurant",
-          "time": "18:30",
-          "place": "Arakataka",
-          "duration": "90",
-          "notes": "저녁 식사 (현지 음식 레스토랑)",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.9163672,
-            "lng": 10.750623
-          }
-        }
-      ],
-      "total_distance": 3
-    },
-    {
-      "day": 3,
-      "date": "2025-03-29",
-      "activities": [
-        {
-          "type": "attraction",
-          "time": "10:00",
-          "place": "비겔란 조각 공원",
-          "duration": "120",
-          "notes": "인간의 삶을 표현한 다양한 조각상 감상"
-        },
-        {
-          "type": "restaurant",
-          "time": "12:30",
-          "place": "Villa Paradiso Frogner",
-          "duration": "90",
-          "notes": "점심 식사 (이탈리안 레스토랑)",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.9150236,
-            "lng": 10.7177216
-          }
-        },
-        {
-          "type": "attraction",
-          "time": "14:30",
-          "place": "프람 박물관",
-          "duration": "120",
-          "notes": "극지 탐험선 프람호 관람 및 극지 탐험 역사 학습"
-        },
-        {
-          "type": "attraction",
-          "time": "16:30",
-          "place": "해양 박물관",
-          "duration": "60",
-          "notes": "바이킹 시대부터 현대까지의 해양 역사 전시 관람"
-        },
-        {
-          "type": "restaurant",
-          "time": "18:30",
-          "place": "Südøst Restaurant",
-          "duration": "90",
-          "notes": "저녁 식사 (아시아 퓨전 레스토랑)",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.918137,
-            "lng": 10.76055
-          }
-        }
-      ],
-      "total_distance": 7
-    },
-    {
-      "day": 4,
-      "date": "2025-03-30",
-      "activities": [
-        {
-          "type": "attraction",
-          "time": "10:00",
-          "place": "튀리피오르덴 호",
-          "duration": "60",
-          "notes": "잔잔한 호수에서 여유로운 시간 보내기",
+          "notes": "전망대에서 쇤브룬궁 주변 경치 감상",
           "location": {
             "type": "attraction",
-            "lat": 59.9621333,
-            "lng": 10.3004066
-          }
-        },
-        {
-          "type": "restaurant",
-          "time": "12:30",
-          "place": "강남식당",
-          "duration": "90",
-          "notes": "점심 식사 (한식 레스토랑)",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.9110446,
-            "lng": 10.7211345
-          }
-        },
-        {
-          "type": "attraction",
-          "time": "14:30",
-          "place": "Jumpyard snø",
-          "duration": "60",
-          "notes": "점프 스포츠를 즐기며 신나는 시간 보내기",
-          "location": {
-            "type": "attraction",
-            "lat": 59.9481005,
-            "lng": 10.9507094
-          }
-        },
-        {
-          "type": "attraction",
-          "time": "16:30",
-          "place": "Grünerhagen",
-          "duration": "60",
-          "notes": "자연 속에서 평화로운 시간 보내기",
-          "location": {
-            "type": "attraction",
-            "lat": 59.9214753,
-            "lng": 10.7549671
+            "lat": 48.2762652,
+            "lng": 16.333322
           }
         },
         {
           "type": "restaurant",
           "time": "18:30",
-          "place": "BLÅ",
+          "place": "Salm Bräu",
           "duration": "90",
-          "notes": "저녁 식사 (분위기 좋은 펍)",
+          "notes": "저녁 식사 (수제 맥주와 슈니첼)",
           "location": {
             "type": "restaurant",
-            "lat": 59.9200628,
-            "lng": 10.752875
-          }
-        }
-      ],
-      "total_distance": 20
-    },
-    {
-      "day": 5,
-      "date": "2025-03-31",
-      "activities": [
-        {
-          "type": "attraction",
-          "time": "10:00",
-          "place": "Frognerparken",
-          "duration": "60",
-          "notes": "조각 감상 및 공원 산책",
-          "location": {
-            "type": "attraction",
-            "lat": 59.92645829999999,
-            "lng": 10.7034734
-          }
-        },
-        {
-          "type": "restaurant",
-          "time": "12:30",
-          "place": "Brasserie France",
-          "duration": "90",
-          "notes": "점심 식사 (프랑스 레스토랑)",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.9130579,
-            "lng": 10.7428031
-          }
-        },
-        {
-          "type": "attraction",
-          "time": "14:30",
-          "place": "Oslo Reptile Park",
-          "duration": "60",
-          "notes": "각종 파충류 탐방",
-          "location": {
-            "type": "attraction",
-            "lat": 59.9181666,
-            "lng": 10.7431959
-          }
-        },
-        {
-          "type": "attraction",
-          "time": "16:30",
-          "place": "Grünerhagen",
-          "duration": "60",
-          "notes": "휴식 및 산책",
-          "location": {
-            "type": "attraction",
-            "lat": 59.9214753,
-            "lng": 10.7549671
-          }
-        },
-        {
-          "type": "restaurant",
-          "time": "18:30",
-          "place": "Delicatessen Grünerløkka",
-          "duration": "90",
-          "notes": "저녁 식사 (스페인 타파스)",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.918761,
-            "lng": 10.758253
+            "lat": 48.196667,
+            "lng": 16.380861
           }
         }
       ],
       "total_distance": 5
     },
     {
-      "day": 6,
-      "date": "2025-04-01",
+      "day": 3,
+      "date": "2025-03-15",
       "activities": [
         {
           "type": "attraction",
           "time": "10:00",
-          "place": "Tusenfryd",
-          "duration": "60",
-          "notes": "즐거운 놀이기구 탑승",
+          "place": "호프부르크 왕궁",
+          "duration": "120",
+          "notes": "합스부르크 왕가의 겨울 궁전 방문",
           "location": {
             "type": "attraction",
-            "lat": 59.748095,
-            "lng": 10.778243
+            "lat": 48.2056578,
+            "lng": 16.3647803
           }
         },
         {
           "type": "restaurant",
           "time": "12:30",
-          "place": "Peppes Pizza - Stortingsgaten",
+          "place": "Café Central",
           "duration": "90",
-          "notes": "점심 식사 (피자)",
-          "location": {
-            "type": "restaurant",
-            "lat": 59.9128749,
-            "lng": 10.7383335
-          }
+          "notes": "호프부르크 왕궁 근처 점심 식사"
         },
         {
           "type": "attraction",
           "time": "14:30",
-          "place": "Linderud Center",
-          "duration": "60",
-          "notes": "쇼핑센터 방문",
+          "place": "알베르티나",
+          "duration": "120",
+          "notes": "미술관 관람",
           "location": {
             "type": "attraction",
-            "lat": 59.9432033,
-            "lng": 10.8353703
+            "lat": 48.2046992,
+            "lng": 16.3681824
           }
         },
         {
           "type": "attraction",
-          "time": "16:30",
-          "place": "Bjerkedalen park",
+          "time": "17:00",
+          "place": "요한 스트라우스 2세 동상",
           "duration": "60",
-          "notes": "휴식 및 산책",
+          "notes": "사진 촬영",
           "location": {
             "type": "attraction",
-            "lat": 59.9398156,
-            "lng": 10.8219624
+            "lat": 48.2038059,
+            "lng": 16.3791518
           }
         },
         {
           "type": "restaurant",
           "time": "18:30",
-          "place": "Villa Paradiso Grünerløkka",
+          "place": "Brasserie Palmenhaus Wien",
           "duration": "90",
-          "notes": "저녁 식사 (이탈리안 레스토랑)",
+          "notes": "저녁 식사 (분위기 좋은 레스토랑)",
           "location": {
             "type": "restaurant",
-            "lat": 59.9235486,
-            "lng": 10.7575466
+            "lat": 48.2051035,
+            "lng": 16.3667287
           }
         }
       ],
-      "total_distance": 20
+      "total_distance": 3
+    },
+    {
+      "day": 4,
+      "date": "2025-03-16",
+      "activities": [
+        {
+          "type": "attraction",
+          "time": "10:00",
+          "place": "슈테판 대성당",
+          "duration": "60",
+          "notes": "고딕 양식의 대성당 방문",
+          "location": {
+            "type": "attraction",
+            "lat": 48.2084114,
+            "lng": 16.3734707
+          }
+        },
+        {
+          "type": "attraction",
+          "time": "11:30",
+          "place": "Justizpalast",
+          "duration": "60",
+          "notes": "건축물 감상",
+          "location": {
+            "type": "attraction",
+            "lat": 48.20676299999999,
+            "lng": 16.3574025
+          }
+        },
+        {
+          "type": "restaurant",
+          "time": "12:30",
+          "place": "Zum Schwarzen Kameel",
+          "duration": "90",
+          "notes": "점심 식사 (전통 델리)",
+          "location": {
+            "type": "restaurant",
+            "lat": 48.2100189,
+            "lng": 16.3682914
+          }
+        },
+        {
+          "type": "attraction",
+          "time": "14:30",
+          "place": "빈 자연사 박물관",
+          "duration": "120",
+          "notes": "다양한 전시 관람",
+          "location": {
+            "type": "attraction",
+            "lat": 48.205212,
+            "lng": 16.3598451
+          }
+        },
+        {
+          "type": "restaurant",
+          "time": "18:30",
+          "place": "Loos American Bar",
+          "duration": "90",
+          "notes": "저녁 식사 전 칵테일 한잔",
+          "location": {
+            "type": "restaurant",
+            "lat": 48.207172,
+            "lng": 16.3712536
+          }
+        }
+      ],
+      "total_distance": 4
+    },
+    {
+      "day": 5,
+      "date": "2025-03-17",
+      "activities": [
+        {
+          "type": "attraction",
+          "time": "10:00",
+          "place": "프라터",
+          "duration": "60",
+          "notes": "놀이공원 방문 및 자이언트 휠 탑승",
+          "location": {
+            "type": "attraction",
+            "lat": 48.2154648,
+            "lng": 16.4001739
+          }
+        },
+        {
+          "type": "attraction",
+          "time": "11:30",
+          "place": "Prater Turm",
+          "duration": "60",
+          "notes": "높이 솟은 회전 그네 탑승",
+          "location": {
+            "type": "attraction",
+            "lat": 48.2145278,
+            "lng": 16.401401
+          }
+        },
+        {
+          "type": "restaurant",
+          "time": "12:30",
+          "place": "Schweizerhaus",
+          "duration": "90",
+          "notes": "프라터 공원 내 점심 식사 (슈바이네스텔제 추천)"
+        },
+        {
+          "type": "attraction",
+          "time": "14:30",
+          "place": "Kunst Haus Wien. Museum Hundertwasser",
+          "duration": "120",
+          "notes": "독특한 건축 양식의 박물관 관람",
+          "location": {
+            "type": "attraction",
+            "lat": 48.21107599999999,
+            "lng": 16.393286
+          }
+        },
+        {
+          "type": "restaurant",
+          "time": "18:30",
+          "place": "1516 Brewing Company",
+          "duration": "90",
+          "notes": "저녁 식사 (수제 맥주와 펍 음식)",
+          "location": {
+            "type": "restaurant",
+            "lat": 48.2033681,
+            "lng": 16.3730843
+          }
+        }
+      ],
+      "total_distance": 7
+    },
+    {
+      "day": 6,
+      "date": "2025-03-18",
+      "activities": [
+        {
+          "type": "attraction",
+          "time": "10:00",
+          "place": "빈 시청",
+          "duration": "60",
+          "notes": "고딕 양식의 시청 건물 관람",
+          "location": {
+            "type": "attraction",
+            "lat": 48.210821,
+            "lng": 16.3580827
+          }
+        },
+        {
+          "type": "attraction",
+          "time": "11:30",
+          "place": "Volksgarten",
+          "duration": "60",
+          "notes": "공원 산책 및 장미 정원 감상"
+        },
+        {
+          "type": "restaurant",
+          "time": "12:30",
+          "place": "Café Landtmann",
+          "duration": "90",
+          "notes": "점심 식사 (전통 커피 하우스)",
+          "location": {
+            "type": "restaurant",
+            "lat": 48.21154689999999,
+            "lng": 16.3615167
+          }
+        },
+        {
+          "type": "attraction",
+          "time": "14:30",
+          "place": "중앙묘지",
+          "duration": "60",
+          "notes": "베토벤, 슈베르트 등 유명 음악가 묘소 방문",
+          "location": {
+            "type": "attraction",
+            "lat": 48.1480952,
+            "lng": 16.4416926
+          }
+        },
+        {
+          "type": "restaurant",
+          "time": "18:30",
+          "place": "Café Hawelka",
+          "duration": "90",
+          "notes": "저녁 식사 (유명 예술가들이 즐겨 찾던 카페)",
+          "location": {
+            "type": "restaurant",
+            "lat": 48.20793159999999,
+            "lng": 16.3697835
+          }
+        }
+      ],
+      "total_distance": 8
     },
     {
       "day": 7,
-      "date": "2025-04-02",
+      "date": "2025-03-19",
       "activities": [
         {
           "type": "hotel",
           "time": "10:30",
-          "place": "톤 호텔 오페라",
+          "place": "부티크 호텔 스타트할레",
           "duration": "30",
-          "notes": "호텔 체크아웃",
+          "notes": "체크아웃",
           "location": {
             "type": "hotel",
-            "lat": 59.90948330000001,
-            "lng": 10.7532056
+            "lat": 48.19921710000001,
+            "lng": 16.333811
           }
         }
       ],
-      "total_distance": 0
+      "total_distance": 1
     }
   ]
 }

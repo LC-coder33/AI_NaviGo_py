@@ -187,12 +187,12 @@ Q&A게시판 - 4개</br>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
-<th align="center">카카오 회원가입 - 로그인 기능</th>
+<th align="center">AI 해외 여행지 생성1</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/35314266-dc86-42c1-a5dd-878a325dd908">
+<td><img src="https://github.com/user-attachments/assets/0047c78c-73bb-4a76-bce3-b35d57f21df68">
 </td>
 </tr>
 </tbody>
@@ -201,18 +201,19 @@ Q&A게시판 - 4개</br>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
-<th align="center">여행 정보 검색</th>
-<th align="center">여행 리뷰 작성</th>
+<th align="center">AI 해외 여행지 생성2</th>
+<th align="center">AI 해외 여행지 생성3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/390e5e4a-c594-49ad-867a-075d7be656da">
+<td><img src="https://github.com/user-attachments/assets/aac3e9af-c5d6-4874-8b62-89cbabf2c346">
 </td>
-<td><img src="https://github.com/user-attachments/assets/59904532-2a00-4717-8dff-4799c2a854ac"></td>
+<td><img src="https://github.com/user-attachments/assets/4d79c713-d37c-4d5d-a584-d64df52cf8c2"></td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
+
 
 <h3>👉👉<a href="https://youtu.be/OBIiHWSFoac">PETITCURE 기능 종합 버전 영상 및 설명 보러가기!!</a></h3>
 <h3>더 많은 기능 및 기능별 설명 자세히 보러가기!!</br>( -> 영상별 자막을 통한 설명이 추가되어 있습니다.)</h3>

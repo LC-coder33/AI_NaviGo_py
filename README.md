@@ -170,8 +170,8 @@ Q&A게시판 - 4개</br>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
-<th align="center">AI 국내 여행지 생성1</th>
-<th align="center">AI 국내 여행지 생성2</th>
+<th align="center">AI 국내 여행 플랜 생성1</th>
+<th align="center">AI 국내 여행 플랜 생성2</th>
 </tr>
 </thead>
 <tbody>
@@ -187,7 +187,7 @@ Q&A게시판 - 4개</br>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
-<th align="center">AI 해외 여행지 생성1</th>
+<th align="center">AI 해외 여행 플랜 생성1</th>
 </tr>
 </thead>
 <tbody>
@@ -201,8 +201,8 @@ Q&A게시판 - 4개</br>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
-<th align="center">AI 해외 여행지 생성2</th>
-<th align="center">AI 해외 여행지 생성3</th>
+<th align="center">AI 해외 여행 플랜 생성2</th>
+<th align="center">AI 해외 여행 플랜 생성3</th>
 </tr>
 </thead>
 <tbody>
@@ -214,24 +214,24 @@ Q&A게시판 - 4개</br>
 </tbody>
 </table></markdown-accessiblity-table>
 
+<markdown-accessiblity-table data-catalyst=""><table>
+<thead>
+<tr>
+<th align="center">여행 플랜 히스토리</th>
+<th align="center">개인 선호 여행 테마 수정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/74cb42c8-e47a-4d7c-a5f3-8ec09edd39c4">
+</td>
+<td><img src="https://github.com/user-attachments/assets/11676486-5568-4a6d-9237-db63c3326970"></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+
 
 <h3>👉👉<a href="https://youtu.be/OBIiHWSFoac">PETITCURE 기능 종합 버전 영상 및 설명 보러가기!!</a></h3>
-<h3>더 많은 기능 및 기능별 설명 자세히 보러가기!!</br>( -> 영상별 자막을 통한 설명이 추가되어 있습니다.)</h3>
-<a href="https://www.youtube.com/watch?v=en9syPim3Z4">(1) 기본 메인화면 보기!</a></br>
-<a href="https://www.youtube.com/watch?v=7DGF0gJPiAY">(2) 회원가입 기능 보기!</a></br>
-<a href="https://www.youtube.com/watch?v=icFCi6NpcXM">(3) 로그인 기능 보기 !</a></br>
-<a href="https://youtu.be/jzuRroEn6p8">(4) 자유게시판 기능 보기!</a></br>
-<a href="https://youtu.be/2qLPKIujQrM">(5) Q&A게시판 기능 보기! </br>
-&nbsp;&nbsp;&nbsp;    - 댓글제한</a></br>
-<a href="https://www.youtube.com/watch?v=z3MxpA2ZFKE">(6) 우울증 게시판 기능 보기!</br>
-&nbsp;&nbsp;&nbsp;   + 카카오 로그인</a></br>
-<a href="https://www.youtube.com/watch?v=EXJeOeM43WQ&feature=youtu.be">(7) 마이페이지 기능 보기!</br>
-&nbsp;&nbsp;&nbsp;(+ 회원 정보 수정 및 삭제)</a></br>
-<a href="https://youtu.be/TSHQcxzJQqY">(8) 건강검진 check 기능 보기!</a></br>
-<a href="https://youtu.be/ALDZ6Ou3t0U">(9) 우울증 check 기능 보기!</a></br>
-<a href="https://www.youtube.com/watch?v=_ev_hWKM8-o&feature=youtu.be">(10) 공지사항 관리 기능 보기!</a></br>
-<a href="https://youtu.be/qVKWJTnlVoE">(11) 탈퇴현황 관리 및 블랙리스트 기능 보기!</a></br>
-<a href="https://www.youtube.com/watch?v=w06MhWS4wvM">(12) 관리자 페이지 기능 보기!</a></br>
 <hr>
 <h3>📣 5. 해당 과정을 통하여 프로젝트를 진행하고, 최종적으로 아래의 PPT를 제작 및 발표를 진행하였습니다. </br>
          (ppt링크 하단 첨부)</h3>

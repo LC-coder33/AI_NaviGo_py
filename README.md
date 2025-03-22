@@ -139,17 +139,16 @@ Q&A게시판 - 4개</br>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
-<th align="center">메인화면 기능</th>
 <th align="center">회원가입 기능</th>
 <th align="center">로그인 기능</th>
+<th align="center">챗봇 기능</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/2e6cd813-a018-46a0-a1a4-ab51325136aa">
-</td>
-<td><img src="https://github.com/user-attachments/assets/5294b9fb-3934-4d3b-b4d5-18a884bab21b"></td>
-<td><img src="https://github.com/user-attachments/assets/8412140c-8be4-4d80-adb5-a882df7db6ec"></td>
+<td><img src="https://github.com/user-attachments/assets/d92d178b-a9a4-476a-9309-72d6ad778471"></td>
+<td><img src="https://github.com/user-attachments/assets/1f0dc8b3-df32-4f1a-9329-b49b86cf1b23"></td>
+<td><img src="https://github.com/user-attachments/assets/a7167420-2133-4059-951c-4ff0008a30e7"></td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>

@@ -155,15 +155,15 @@ Q&A게시판 - 4개</br>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
-<th align="center">건강검진 CHECK</th>
-<th align="center">우울증 CHECK</th>
+<th align="center">AI 이미지 검색</th>
+<th align="center">AI 추천 여행지</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/0e2eeaf0-fa37-43d6-917a-eb4c8baa460d">
+<td><img src="https://github.com/user-attachments/assets/390e5e4a-c594-49ad-867a-075d7be656da">
 </td>
-<td><img src="https://github.com/user-attachments/assets/124fe820-cb7c-4275-bbe8-ba0f7c65ee83"></td>
+<td><img src="https://github.com/user-attachments/assets/59904532-2a00-4717-8dff-4799c2a854ac"></td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>

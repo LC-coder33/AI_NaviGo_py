@@ -88,7 +88,8 @@ AI를 활용한 데이터 분석으로 여행자의 취향에 맞는 최적의 �
 <hr>
 <h3>🛠️ 2. 주요 기능 및 설계</h3>
 <h4>(1) Main화면의 기본 디자인 설계</h4>
-<img src="https://github.com/user-attachments/assets/f5b786b0-7173-4c7a-b337-91ae8bf050c0" width="width 30%" height="height 40%">
+<img src="![image](https://github.com/user-attachments/assets/9c6e892c-6bdf-489f-97a2-582acefa88bd)
+" width="width 30%" height="height 40%">
 <h4>(2) 주요 기능 및 요구사항</h4>
 <h4>a. 비회원 / 회원의 기능</h4>
 <img src="https://github.com/user-attachments/assets/fb29d40a-d3a4-4177-bf61-06b26e34e40f">

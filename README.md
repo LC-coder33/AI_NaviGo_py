@@ -97,15 +97,18 @@ AI를 활용한 데이터 분석으로 여행자의 취향에 맞는 최적의 �
 <h4>(3) ERD(다이아그램)</h4>
 <span>
 <h4>총: 23개 테이블</h4>
-회원관리 - 3개</br>
-자유게시판 - 4개</br>
-Q&A게시판 - 4개</br>
-우울증게시판 - 5개</br>
-건강검진 check - 2개</br>
-우울증 check - 1개</br>
-관리자 전용 - 4개</br></br>
+회원 관리</br>
+회원 취향</br>
+국내 여행 일정</br>
+국내 여행 일자 별 일정</br>
+국내 여행 액티비티</br>
+유저 액티비티</br>
+해외 여행 일정</br>
+해외 여행 일자 별 일정</br>
+해외 여행 액티비티</br>
+해외 관광지 사진</br></br>
 </span>
-<img src="https://github.com/user-attachments/assets/c630786b-523c-46ab-b1c8-6106325684ee" alt="ERD">
+<img src="https://github.com/user-attachments/assets/e7363334-bdb1-481f-839b-9cad6379f2c6" alt="ERD">
 <h4>(4) 어떤 기술들을 실제 구현해보았나?</h4>
 <spna>1. <b>View</b>의 제작</br>
          &nbsp;&nbsp;&nbsp; : html5, CSS3, Bootstrap를 사용한 정적디자인 / 타임리프, JSP를 사용한 동적 렌더링 /</br>

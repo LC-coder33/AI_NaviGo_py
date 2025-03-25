@@ -82,7 +82,7 @@ AI를 활용한 데이터 분석으로 여행자의 취향에 맞는 최적의 �
 
 </tbody>
 </table></markdown-accessiblity-table>
-<h4><a href="https://docs.google.com/spreadsheets/d/1691oZu4AoRfvp4sOnOU6rI8rCsYTJyNZ/edit?usp=sharing&ouid=116827594504805858320&rtpof=true&sd=true">
+<h4><a href="https://docs.google.com/spreadsheets/d/1691oZu4AoRfvp4sOnOU6rI8rCsYTJyNZ/edit?usp=sharing&ouid=116665635919018066959&rtpof=true&sd=true">
   더욱 자세한 담당 업무 및 기간은 WBS로 확인하실수 있습니다.😊😊</br>(누르면 이동이 가능합니다.)</a></h4>
 
 <hr>
@@ -118,10 +118,8 @@ AI를 활용한 데이터 분석으로 여행자의 취향에 맞는 최적의 �
   &nbsp;&nbsp;&nbsp;News Api 통한 메인화면에 건강관련 뉴스코너를 구성</div>
 <div>3. <b>백엔드</b>의 구현 (크게 5가지로 분류) </br>
   - 3-1. 로그인: spring security통한 authority부여, 인증과 인가정책, oauth2 라이브러리 통한 소셜 로그인 구현, 유저디테일 및 핸들러의 커스텀</br>
-  - 3-2. 회원가입: ajax를 통한 비동기 방식 구현(아이디 중복체크, 비밀번호 유효성 체크 등), spring-boot-starter-mail 라이브러리를 통한 이메일 인증 구현, Daum Api를 통한 주소 검색 및 저장 기능</br>
-  - 3-3. 게시판: 타임리프 통한 동적 화면 구성, 추천-신고 기능등의 비동기 구현, 댓글 작성 및 수정의 암호화된 비밀번호 인증 처리, 페이징구현, 추천순-최신순으로의 데이터베이스 커스텀, 파일 첨부기능</br>
-  - 3-4. 마이페이지: 최근 활동 정보 출력을 위한 데이터 정제 및 추출, JS의 테이블 tr-td 생성으로 화면 동적 생성, 회원의 정보 수정 및 삭제를 위한 2차 인증절차 및 url로의 접근 제한 구현</br>
-  - 3-5. 관리자모드: spring security통한 authority부여, JS의 테이블 tr-td 생성으로 화면 동적 생성, 관리자가 조회할 수 있는 데이터의 커스텀 및 정제</br>
+  - 3-2. 회원가입: ajax를 통한 비동기 방식 구현(아이디 중복체크, 비밀번호 유효성 체크 등), spring-boot-starter-mail 라이브러리를 통한 이메일 인증 구현</br>
+  - 3-3. 여행 플랜 생성: FastApi 를 통한 Spring Boot 와 Python 간 연동. Google Gemini Api를 통한 ai플랜 생성 및 Google Maps/Kakao Maps Api를 통한 일정 구현</br>
 <hr>
 <h3>💻 3. 개발 환경</h3>
 ⚙️ 개발 환경

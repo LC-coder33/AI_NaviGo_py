@@ -92,7 +92,7 @@ AI를 활용한 데이터 분석으로 여행자의 취향에 맞는 최적의 �
 " width="width 30%" height="height 40%">
 <h4>(2) 주요 기능 및 요구사항</h4>
 <h4>a. 메뉴 구조도</h4>
-https://github.com/user-attachments/assets/249449f7-f619-4542-bd35-738d75661100
+<img src="https://github.com/user-attachments/assets/249449f7-f619-4542-bd35-738d75661100">
 <h3><a href="https://docs.google.com/spreadsheets/d/16US4o8_Yy0UbsYzRZtFX-uC85ofW8f5_WLkOHVndZIU/edit?gid=0#gid=0">-> 클릭하시면 상세 요구사항을 확인하실 수 있습니다.😊😊</br>(누르면 이동이 가능합니다.)</a></h3>
 <h4>(3) ERD(다이아그램)</h4>
 <span>
